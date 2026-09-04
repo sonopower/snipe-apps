@@ -1,0 +1,45 @@
+{
+  "publisher": "Sonopower",
+  "contact": "crazy-sof@hotmail.com",
+  "base_url": "https://sonopower.github.io/snipe-apps",
+  "apps": [
+    {
+      "slug": "teampicker",
+      "name": "Team Generator: Random Picker",
+      "tagline": "Fair teams and random name draws for classrooms, coaches and trainers.",
+      "effective": "2026-09-03",
+      "stores": [
+        "Rosters you create — the roster name and the list of names you type or paste.",
+        "Optional skill ratings you attach to a name so teams come out balanced.",
+        "Your settings: number of teams, appearance, and whether the app is unlocked."
+      ],
+      "help": [
+        ["Make fair teams", "Open the Teams tab, choose how many teams you want, and tap Make teams. Add a skill rating to any name on the Rosters tab and the split balances on that rating instead of splitting at random."],
+        ["Draw names without repeats", "The Wheel tab draws from the roster without replacement — nobody comes up twice until the pool empties. Tap Undo to put the last name back."],
+        ["Paste a class list", "Rosters tab, Add roster, then paste names one per line. Anything you can copy out of a spreadsheet or a gradebook works."],
+        ["Show it on the projector", "Tap Projector mode for oversized, high-contrast cards that read from the back of a room."],
+        ["Move to a new device", "Export a roster to CSV from the Rosters tab and import it on the other device. Rosters are stored only on the device, so they do not travel on their own."],
+        ["Restore your purchase", "Settings, then Restore Purchase. Use the same Apple Account that bought the unlock; the unlock is a one-time purchase and never expires."]
+      ]
+    },
+    {
+      "slug": "slidecalc",
+      "name": "Axle Weight & Slide Calc",
+      "tagline": "Work out the tandem slide from a scale ticket, before you pull off the scale.",
+      "effective": "2026-09-03",
+      "stores": [
+        "Weighings you save — the axle weights you typed and the result the app worked out.",
+        "Rigs you set up — hole spacing, axle spacing and the names you give them.",
+        "Your settings: units, appearance, and whether the app is unlocked."
+      ],
+      "help": [
+        ["Read the answer", "Type the steer, drive and trailer weights off the scale ticket. The headline tells you which way to slide and how many holes; the diagram shows the move; the badge tells you whether the rig is legal after it."],
+        ["Which way is FORWARD", "Forward means toward the tractor. Sliding the trailer tandems forward moves weight off the drives and onto the trailer axles; sliding them back does the opposite. Slide toward the group that is overweight to lighten it."],
+        ["Where the limits come from", "The Limits screen names its source and the date it was checked: 80,000 lb gross, 20,000 lb single, 34,000 lb tandem and the federal bridge formula from 23 CFR 658.17, plus California's kingpin rule. These are the federal Interstate limits. Non-Interstate state routes can be lower — always verify against current state law."],
+        ["Set up your own trailer", "Rigs let you save hole spacing and axle spacing per trailer, so the hole count matches the trailer you are actually pulling."],
+        ["Get the numbers out", "Weigh history exports to CSV from the history screen for your own records."],
+        ["Restore your purchase", "Settings, then Restore Purchase. Use the same Apple Account that bought the unlock; the unlock is a one-time purchase and never expires."]
+      ]
+    }
+  ]
+}
